@@ -4,7 +4,7 @@ We present a novel approach - CLAA - for API aspect detection in API reviews tha
 ## Repository Structure
 The repository has three folders:
 1. Code: All the codes for seven pre-trained transformers are available.
-2. Dataset: Contains two datasets (a) Opiner dataset (b) Empirical dataset.
+2. Dataset: Contains two datasets (a) Opiner dataset (UddinSOAspect.csv) (b) Empirical dataset (JSONJavaSO.csv).
 3. Result: Contains two folders and one file.
    - WCL: Contains the result of CLAA on Empirical dataset.
    - WOCL: Contains the result of baseline RoBERTa on Empirical dataset.
